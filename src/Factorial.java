@@ -12,6 +12,7 @@ public class Factorial {
     i++;
     }
     System.out.printf("factorail of the %d = %d%n",num,fact);
+    sc.close();
     
 }
 }
