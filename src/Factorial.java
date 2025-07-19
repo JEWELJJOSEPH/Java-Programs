@@ -1,3 +1,4 @@
+//Jewel J Joseph 19/07/15 12:30pm
 import java.util.Scanner;
 public class Factorial {
     public static void main(String[] args){
