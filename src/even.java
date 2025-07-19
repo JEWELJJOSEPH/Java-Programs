@@ -5,6 +5,10 @@ public class even {
        do{
         i += 2;
         System.out.println(i);
+<<<<<<< HEAD
     }while (i < 20);   
+=======
+    }while (i < 20);
+>>>>>>> 70af7a9dcddd2dd5dc825225f6a38c16074981cb
     }
 }
